@@ -7,6 +7,7 @@ import {
   Button,
   Snackbar,
   CircularProgress,
+  Stack,
 } from "@mui/material";
 
 function ContactForm() {
@@ -33,7 +34,7 @@ function ContactForm() {
         },
         body: JSON.stringify({
           ...formData,
-          access_key: "15928db9-4c1b-49af-ae8f-2e7867027bba",
+          access_key: "HER-MÅ-DU-LEGGE-INN-DIN-ACCESS-KEY", // Get your access key from https://web3forms.com/
         }),
       });
 
@@ -63,7 +64,7 @@ function ContactForm() {
         Kontakt Meg
       </Typography>
 
-      <form onSubmit={handleSubmit}>
+      <Stack component="form" onSubmit={handleSubmit} spacing={2}>
         <TextField
           label="Din e-post"
           variant="outlined"
@@ -87,7 +88,7 @@ function ContactForm() {
           required
           type="text"
         />
-        <Box mt={3}>
+        <Stack justifyContent="flex-end" alignItems="flex-end">
           <Button
             type="submit"
             variant="contained"
@@ -96,8 +97,8 @@ function ContactForm() {
           >
             {loading ? <CircularProgress size={24} color="inherit" /> : "Send"}
           </Button>
-        </Box>
-      </form>
+        </Stack>
+      </Stack>
 
       <Snackbar
         open={Boolean(snackbarMessage)}

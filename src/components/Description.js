@@ -8,9 +8,9 @@ function Description() {
         Om Meg
       </Typography>
       <Typography>
-        Hei! Jeg er Kristian, en lidenskapelig webutvikler med en forkjærlighet
-        for moderne webteknologier. Jeg elsker å undervise og dele min kunnskap
-        med andre. Velkommen til min workshop!
+        Hei! Jeg er et bilde av en blomst som Kristian fant på internett. Jeg er
+        ikke en veldig spesiell blomst, men heller det første bilde Kristian
+        kommer over på unsplash.com....
       </Typography>
     </Box>
   );

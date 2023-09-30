@@ -1,18 +1,20 @@
 import React from "react";
-import { Avatar, Typography, Box } from "@mui/material";
+import { Avatar, Typography, Stack } from "@mui/material";
 
 function Profile() {
   return (
-    <Box
+    <Stack
+      alignItems="center"
       textAlign="center"
       py={5}
       bgcolor="#f5f5f5"
       borderRadius={3}
       boxShadow={3}
+      spacing={2}
     >
       <Avatar
-        src="/bilde-av-meg.jpg"
-        alt="Kristian"
+        src="/bilde-av-blomst.jpeg"
+        alt="Blomst"
         sx={{
           width: 150,
           height: 150,
@@ -21,9 +23,9 @@ function Profile() {
         }}
       />
       <Typography variant="h4" gutterBottom color="#3f51b5">
-        Kristian
+        Tilfeldig blomst
       </Typography>
-    </Box>
+    </Stack>
   );
 }
 
