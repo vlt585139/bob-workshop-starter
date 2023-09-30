@@ -1,18 +1,27 @@
 import React from "react";
-import Avatar from "@mui/material/Avatar";
-import Typography from "@mui/material/Typography";
-import Box from "@mui/material/Box";
+import { Avatar, Typography, Box } from "@mui/material";
 
 function Profile() {
   return (
-    <Box textAlign="center" py={5}>
+    <Box
+      textAlign="center"
+      py={5}
+      bgcolor="#f5f5f5"
+      borderRadius={3}
+      boxShadow={3}
+    >
       <Avatar
-        src="/path-to-placeholder-image.jpg"
-        alt="Placeholder"
-        sx={{ width: 128, height: 128, margin: "auto" }}
+        src="/bilde-av-meg.jpg"
+        alt="Kristian"
+        sx={{
+          width: 150,
+          height: 150,
+          margin: "auto",
+          border: "4px solid #3f51b5",
+        }}
       />
-      <Typography variant="h4" gutterBottom>
-        Ditt navn her
+      <Typography variant="h4" gutterBottom color="#3f51b5">
+        Kristian
       </Typography>
     </Box>
   );

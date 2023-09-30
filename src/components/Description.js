@@ -1,14 +1,17 @@
 import React from "react";
-import Typography from "@mui/material/Typography";
-import Box from "@mui/material/Box";
+import { Typography, Box } from "@mui/material";
 
 function Description() {
   return (
-    <Box py={5}>
-      <Typography variant="h6" gutterBottom>
+    <Box py={5} bgcolor="#e8eaf6" borderRadius={3} boxShadow={3} mt={4} px={3}>
+      <Typography variant="h6" gutterBottom color="#3f51b5">
         Om Meg
       </Typography>
-      <Typography>Din beskrivelse her...</Typography>
+      <Typography>
+        Hei! Jeg er Kristian, en lidenskapelig webutvikler med en forkjærlighet
+        for moderne webteknologier. Jeg elsker å undervise og dele min kunnskap
+        med andre. Velkommen til min workshop!
+      </Typography>
     </Box>
   );
 }
