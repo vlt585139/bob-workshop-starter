@@ -8,9 +8,12 @@ function Description() {
         Om Meg
       </Typography>
       <Typography>
-        Hei! Jeg er et bilde av en blomst som Kristian fant på internett. Jeg er
-        ikke en veldig spesiell blomst, men heller det første bilde Kristian
-        kommer over på unsplash.com....
+        Hei! Dette bildet er av en sjarmerende blomst hentet fra Unsplash.
+        Unsplash tilbyr et bredt utvalg av gratis bilder av høy kvalitet som kan
+        brukes til forskjellige formål. Så hvis du leter etter inspirerende
+        bilder for ditt neste prosjekt, anbefales det å sjekke ut Unsplash. For
+        øvrig, denne teksten ble generert med hjelp av ChatGPT fra OpenAI.
+        Fascinerende, ikke sant?
       </Typography>
     </Box>
   );
