@@ -2,8 +2,6 @@
 
 **BOB BBL** gir deg nå muligheten til å prøve ut programmering ved å sette opp din egen nettside! Bli med på vår 3-timers workshop i Bergen der du vil lære å bygge og publisere din egen nettside fra bunnen av – helt gratis! Dette er en fin mulighet til å få et innblikk i webutvikling og programmering, enten du er en nybegynner eller allerede har prøvd deg innenfor programmeringsverden.
 
-**Påmelding:** [https://pamelding.bob.no/gratis-intensivkurs-i-programmering-lag-din-egen-nettside#/home](https://pamelding.bob.no/gratis-intensivkurs-i-programmering-lag-din-egen-nettside#/home)
-
 ## 🛠 I denne praktiske workshopen vil du:
 
 - Få en introduksjon til grunnleggende programmering og webutvikling
