@@ -1,42 +1,44 @@
-# Material UI - Create React App example
+# Bli med på vårt gratis webutviklingskurs
 
-## How to use
+**BOB BBL** gir deg nå muligheten til å prøve ut programmering ved å sette opp din egen nettside! Bli med på vår 3-timers workshop i Bergen der du vil lære å bygge og publisere din egen nettside fra bunnen av – helt gratis! Dette er en fin mulighet til å få et innblikk i webutvikling og programmering, enten du er en nybegynner eller allerede har prøvd deg innenfor programmeringsverden.
 
-Download the example [or clone the repo](https://github.com/mui/material-ui):
+**Påmelding:** [https://pamelding.bob.no/gratis-intensivkurs-i-programmering-lag-din-egen-nettside#/home](https://pamelding.bob.no/gratis-intensivkurs-i-programmering-lag-din-egen-nettside#/home)
 
-<!-- #default-branch-switch -->
+## 🛠 I denne praktiske workshopen vil du:
 
-```bash
-curl https://codeload.github.com/mui/material-ui/tar.gz/master | tar -xz --strip=2 material-ui-master/examples/material-ui-cra
-cd material-ui-cra
-```
+- Få en introduksjon til grunnleggende programmering og webutvikling
+- Lære å bygge og publisere din egen nettside steg for steg
+- Jobbe hands-on med veiledning fra erfarne IT-utviklere i BOB BBL
+- Få muligheten til å stille spørsmål og få individuell tilbakemelding
 
-Install it and run:
+## 🎓 Passer for:
 
-```bash
-npm install
-npm start
-```
+- Nybegynnere som ønsker et innblikk i koding og webutvikling
+- De som vil lære å sette opp nettside med programmering
+- De som har begynt på et IT-studie
+- Alle aldersgrupper er velkommen!
 
-or:
+## 📌 Hva må du ha med:
 
-<!-- #default-branch-switch -->
+- Din egen laptop med tilgjengelig lagringsplass
 
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui/material-ui/tree/master/examples/material-ui-cra)
+## 🎓 Forberedelse:
 
-[![Edit on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mui/material-ui/tree/master/examples/material-ui-cra)
+For en smidig start anbefales det at du laster ned:
 
-## The idea behind the example
+- [VSCode](https://code.visualstudio.com)
+- [NodeJS](https://nodejs.org)
+- [Opprett en GitHub-konto](https://github.com)
 
-<!-- #default-branch-switch -->
+Eventuelt møt opp tidligere og få veiledning der.
 
-This example demonstrates how you can use [Create React App](https://github.com/facebookincubator/create-react-app) with Material UI.
-It includes `@mui/material` and its peer dependencies, including [Emotion](https://emotion.sh/docs/introduction), the default style engine in Material UI v5.
-If you prefer, you can [use styled-components instead](https://mui.com/material-ui/guides/interoperability/#styled-components).
+## 🎁 Som deltaker vil du også få:
 
-## What's next?
+- Enkel servering - dette er også gratis ;)
 
-<!-- #default-branch-switch -->
+Det er begrenset antall plasser, så meld deg på nå for å sikre deg plass!
 
-You now have a working example project.
-You can head back to the documentation and continue by browsing the [templates](https://mui.com/material-ui/getting-started/templates/) section.
+**Ved spørsmål kontakt arrangør:**
+
+**Kristian Rykkje**  
+Tech Lead Frontend, BOB BBL
