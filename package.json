@@ -1,12 +1,9 @@
 {
   "name": "bob-nettsidekurs",
-  "version": "0.0.1",
-  "private": true,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "test": "react-scripts test"
   },
   "dependencies": {
     "@emotion/react": "^11.11.1",
