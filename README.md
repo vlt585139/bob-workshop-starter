@@ -1,4 +1,30 @@
-# Bli med på vårt gratis webutviklingskurs
+# Gratis intensivkurs i programmering: Lag din egen nettside
+
+## Verktøy:
+
+| Verktøy | Mac | Windows | Kilde |
+|---------|-----|---------|-------|
+| Node.js & npm | Må lastes ned | Må lastes ned | [Node.js](https://nodejs.org/) |
+| VS Code | Må lastes ned | Må lastes ned | [VS Code](https://code.visualstudio.com/) |
+| GitHub-konto | Online registrering | Online registrering | [GitHub](https://github.com/) |
+| Vercel-konto | Online registrering | Online registrering | [Vercel](https://vercel.com/) |
+
+## Nyttige lenker:
+- BOB Github konto: [https://github.com/BOB-BBL](https://github.com/BOB-BBL)
+- Material UI (komponent bibliotek): [https://mui.com/material-ui/getting-started/](https://mui.com/material-ui/getting-started/)
+- Web3Forms (email kontakt): [https://web3forms.com/](https://web3forms.com/)
+
+## Terminal kommandoer:
+
+| Kategori | Kommando | Forklaring |
+|----------|----------|------------|
+| Node & NPM | `node -v` | Sjekker versjonen av NodeJS du har installert. |
+|  | `npm -v` | Sjekker versjonen av npm du har installert. |
+|  | `npm install` eller `npm i` | Installerer alle avhengigheter som er definert i package.json. |
+|  | `npm start` | Starter prosjektet (vanligvis i utviklingsmodus) som definert i package.json-scriptene. |
+
+
+------------------
 
 **BOB BBL** gir deg nå muligheten til å prøve ut programmering ved å sette opp din egen nettside! Bli med på vår 3-timers workshop i Bergen der du vil lære å bygge og publisere din egen nettside fra bunnen av – helt gratis! Dette er en fin mulighet til å få et innblikk i webutvikling og programmering, enten du er en nybegynner eller allerede har prøvd deg innenfor programmeringsverden.
 
