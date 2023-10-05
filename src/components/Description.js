@@ -8,7 +8,7 @@ function Description() {
         En morsom vits...
       </Typography>
       <Typography>
-      "Why do fathers take an extra pair of socks when they go golfing?" "In case they get a hole in one!"
+      "Startup company specializing in binary web products and services!"
       </Typography>
     </Box>
   );
