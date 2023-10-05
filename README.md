@@ -2,10 +2,11 @@
 
 ## Verktøy:
 
-| Verktøy | Mac | Windows | Kilde |
-|---------|-----|---------|-------|
-| Node.js & npm | Må lastes ned | Må lastes ned | [Node.js](https://nodejs.org/) |
-| VS Code | Må lastes ned | Må lastes ned | [VS Code](https://code.visualstudio.com/) |
+| Verktøy | Kilde |
+|---------|-------|
+| Node.js & npm | [Node.js](https://nodejs.org/) |
+| VS Code | [VS Code](https://code.visualstudio.com/) |
+| GitHub Desktop | [GitHub Desktop](https://desktop.github.com/) |
 | GitHub-konto | Online registrering | Online registrering | [GitHub](https://github.com/) |
 | Vercel-konto | Online registrering | Online registrering | [Vercel](https://vercel.com/) |
 
