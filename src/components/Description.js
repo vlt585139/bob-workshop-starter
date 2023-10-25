@@ -8,8 +8,8 @@ function Description() {
         Om Oss!
       </Typography>
       <Typography> 
-      Startup firma som spesialiserer oss innen web produkter og tjenester !
-       Vi har en rekke dyktige utviklere som kan hjelpe deg med å lage nettsiden du alltid har drømt om!
+      Startup firma som spesialiserer oss innen web-produkter og tjenester !
+       
       </Typography>
     </Box>
   );
